@@ -1,3 +1,15 @@
 body {
+	font-family: "Verdana";
 	color: #FF0000;
+background-image: url("https://pbs.twimg.com/media/C7Ez8A7U8AA4ZxZ.jpg");}
+table {
+	background-color: #999999;
+}
+ul {
+	font-size: 30px;
+	color: lightgray;
+}
+h2 {
+	font-size: 50px;
+	color: white;
 }

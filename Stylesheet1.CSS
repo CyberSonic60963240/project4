@@ -1,2 +1,17 @@
 body {
-color: #FF0000;
+color: Yellow;
+background-image: url("https://pbs.twimg.com/media/C7Ez8A7U8AA4ZxZ.jpg");
+}
+table {
+	background-color: #999999;
+}
+h1, p {
+	text-align: center;
+}
+h1 {
+	font-size: 45px;
+}
+p{
+font-size: 25px;
+font-family: "Verdana";
+}
