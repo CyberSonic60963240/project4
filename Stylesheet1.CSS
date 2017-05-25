@@ -1,0 +1,24 @@
+body {
+color: Yellow;
+background-image: url("https://pbs.twimg.com/media/C7Ez8A7U8AA4ZxZ.jpg");
+}
+table {
+	background-color: #999999;
+}
+h1, p {
+	text-align: center;
+}
+h1 {
+	font-size: 45px;
+}
+p{
+font-size: 25px;
+font-family: "Verdana";
+}
+ul {
+	text-align: center;
+	margin-top: 5%;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	color: "Black";
+}

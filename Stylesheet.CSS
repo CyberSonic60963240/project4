@@ -1,0 +1,26 @@
+body{
+	font-family: "Verdana";
+	font-size: 20px;
+	text-align: center;
+	color: #ffff46;
+	background-image: url("https://pbs.twimg.com/media/C7Ez8A7U8AA4ZxZ.jpg");
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+h1{
+	font-size: 70px;
+	color: #ff0000;
+	font-weight: 1000;
+	margin-top: 12.5%;
+	font-family: "Sans-Serif";
+}
+table {
+	background-color: #999999;
+}
+ul {
+	text-align: center;
+	margin-top: 5%;
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+	color: "Black";
+}
